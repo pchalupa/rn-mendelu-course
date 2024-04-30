@@ -4,6 +4,10 @@ export const colors = {
   ternary: '#7F4F24',
   alternative1: '#B08968',
   alternative2: '#DDB892',
-  cardBackground: '#EDE0D4',
+  sectionBackground: '#EDE0D4',
   surfaceBackground: '#EFEFEF',
+};
+
+export const font = {
+  sans: 'Inter',
 };
