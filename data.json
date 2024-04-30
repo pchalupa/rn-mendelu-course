@@ -1,7 +1,7 @@
 [
   {
-    "name": "HOT COFFEE",
-    "products": [
+    "title": "HOT COFFEE",
+    "data": [
       {
         "id": "11",
         "name": "Black Americano",
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "name": "ICED COFFEE",
-    "products": [
+    "title": "ICED COFFEE",
+    "data": [
       {
         "id": "21",
         "name": "Iced Coffee",
@@ -45,8 +45,8 @@
     ]
   },
   {
-    "name": "SNACKS",
-    "products": [
+    "title": "SNACKS",
+    "data": [
       {
         "id": "31",
         "name": "Croissant",
