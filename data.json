@@ -1,66 +1,66 @@
 [
-    {
-        "name": "HOT COFFEE",
-        "products": [
-            {
-                "id": 11,
-                "name": "Black Americano",
-                "price": 1.50,
-                "description": "Freshly pulled shots of espresso combined with hot water.",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwOnGaIWDodhj7Fwo2RyJnA4Mk4UQKVkENND1RaMo3g&s"
-            },
-            {
-                "id": 12,
-                "name": "Cappuccino",
-                "price": 3.75,
-                "description": "A freshly pulled shot of espresso layered with steamed whole milk and thick rich foam to offer a luxurious velvety texture and complex aroma.",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vmIil-3uNzGl1z-BbOv8qXwuzwWkuX_R4A3jxGV6AQ&s"
-            },
-            {
-                "id": 13,
-                "name": "Flat White",
-                "price": 3.25,
-                "description": "We start with an extra shot of espresso, combine them with one of our signature powders, and finished with lightly aerated milk to create the perfect, velvety espresso beverage. Available in hazelnut, vanilla, mocha or classic flat white.",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSnXcAuWbp8x2UKNrybpC9SXQIv26aIn9XtYFZmoe4w&s"
-            }
-        ]
-    },
-    {
-        "name": "ICED COFFEE",
-        "products": [
-            {
-                "id": 21,
-                "name": "Iced Coffee",
-                "price": 3.15,
-                "description": "Our specially brewed coffee served over ice for a refreshing and bold coffee taste",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-Qdpk72OpFI5Lv_I2QGGBjqhApj90Qc9pVzSSqolbA&s"
-            },
-            {
-                "id": 22,
-                "name": "Cold Brew",
-                "price": 1.85,
-                "description": "Our signature Cold Brew Coffee is a premium blend of Bali Blue Moon and Ethiopia Yirgacheffe coffees with chicory steeped cold for 20 hours for rich, vibrant flavors.",
-                "image": "https://www.justonecookbook.com/wp-content/uploads/2016/11/Cold-Brew-Coffee-II-600x900.jpg"
-            }
-        ]
-    },
-    {
-        "name": "SNACKS",
-        "products": [
-            {
-                "id": 31,
-                "name": "Croissant",
-                "price": 2.80,
-                "description": "Buttery, crescent-shaped French pastry",
-                "image": "https://www.theflavorbender.com/wp-content/uploads/2020/05/French-Croissants-SM-2363.jpg"
-            },
-            {
-                "id": 32,
-                "name": "Chocolate Chip Muffin",
-                "price": 1.75,
-                "description": "The muffins are incredibly rich, mega chocolate-y, and loaded with chocolate chips in every single bite",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlM0Tndyv2XWCWD1RIGEaj4zfOf9tniJf2ryNtb0NhQ&s"
-            }
-        ]
-    }
+  {
+    "title": "HOT COFFEE",
+    "data": [
+      {
+        "id": 11,
+        "name": "Black Americano",
+        "price": 1.5,
+        "description": "Freshly pulled shots of espresso combined with hot water.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwOnGaIWDodhj7Fwo2RyJnA4Mk4UQKVkENND1RaMo3g&s"
+      },
+      {
+        "id": 12,
+        "name": "Cappuccino",
+        "price": 3.75,
+        "description": "A freshly pulled shot of espresso layered with steamed whole milk and thick rich foam to offer a luxurious velvety texture and complex aroma.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vmIil-3uNzGl1z-BbOv8qXwuzwWkuX_R4A3jxGV6AQ&s"
+      },
+      {
+        "id": 13,
+        "name": "Flat White",
+        "price": 3.25,
+        "description": "We start with an extra shot of espresso, combine them with one of our signature powders, and finished with lightly aerated milk to create the perfect, velvety espresso beverage. Available in hazelnut, vanilla, mocha or classic flat white.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSnXcAuWbp8x2UKNrybpC9SXQIv26aIn9XtYFZmoe4w&s"
+      }
+    ]
+  },
+  {
+    "title": "ICED COFFEE",
+    "data": [
+      {
+        "id": 21,
+        "name": "Iced Coffee",
+        "price": 3.15,
+        "description": "Our specially brewed coffee served over ice for a refreshing and bold coffee taste",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-Qdpk72OpFI5Lv_I2QGGBjqhApj90Qc9pVzSSqolbA&s"
+      },
+      {
+        "id": 22,
+        "name": "Cold Brew",
+        "price": 1.85,
+        "description": "Our signature Cold Brew Coffee is a premium blend of Bali Blue Moon and Ethiopia Yirgacheffe coffees with chicory steeped cold for 20 hours for rich, vibrant flavors.",
+        "image": "https://www.justonecookbook.com/wp-content/uploads/2016/11/Cold-Brew-Coffee-II-600x900.jpg"
+      }
+    ]
+  },
+  {
+    "title": "SNACKS",
+    "data": [
+      {
+        "id": 31,
+        "name": "Croissant",
+        "price": 2.8,
+        "description": "Buttery, crescent-shaped French pastry",
+        "image": "https://www.theflavorbender.com/wp-content/uploads/2020/05/French-Croissants-SM-2363.jpg"
+      },
+      {
+        "id": 32,
+        "name": "Chocolate Chip Muffin",
+        "price": 1.75,
+        "description": "The muffins are incredibly rich, mega chocolate-y, and loaded with chocolate chips in every single bite",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRlM0Tndyv2XWCWD1RIGEaj4zfOf9tniJf2ryNtb0NhQ&s"
+      }
+    ]
+  }
 ]
